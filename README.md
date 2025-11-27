@@ -74,7 +74,7 @@ Stored in the `outputs/` directory:
 ## Reproducibility – How to Run
 
 1. Open the notebook using this Colab link:  
-   **[[Google Colab Notebook Link](https://colab.research.google.com/drive/1XYMpesAqoJ3TL8uZ7Wvnz-vAP4I7Hic6?usp=sharing)** 
+   **[Google Colab Notebook Link](https://colab.research.google.com/drive/1XYMpesAqoJ3TL8uZ7Wvnz-vAP4I7Hic6?usp=sharing)** 
 
 2. Upload the dataset or update paths if needed.
 
@@ -84,8 +84,8 @@ Stored in the `outputs/` directory:
 
 ## Additional Links
 
-- **GitHub Repository:** [<[GitHub repo link](https://github.com/kashvi-thakkar/ds_kashvi_thakkar)>]  
-- **Project Folder (Google Drive):** [<[Drive link](https://drive.google.com/drive/folders/18VUe1LxjYBr3ME7zaylgTWJFo7PwJCl8?usp=drive_link)>]
+- **GitHub Repository:** [[GitHub repo link](https://github.com/kashvi-thakkar/ds_kashvi_thakkar)]  
+- **Project Folder (Google Drive):** [[Drive link](https://drive.google.com/drive/folders/18VUe1LxjYBr3ME7zaylgTWJFo7PwJCl8?usp=drive_link)]
 
 ---
 
